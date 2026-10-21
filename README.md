@@ -1,5 +1,8 @@
-👋 Hi there!
+![photo](https://github.com/user-attachments/assets/78b7197f-a0fb-45e9-aac5-4f7617abe0b1)
 
+# 👋 Hi there!
+- Saint-Petersburg.
+- Learning how things work. Building along the way.
 ---
 
 # 💻 I've studying:
